@@ -1,0 +1,7 @@
+AutoMessage => config.yml
+AuthMe => config.yml
+DonateCase => config.yml
+Essentials => motd.txt
+HolographicDisplays => database.yml
+PingMotd => config.yml
+PermissionsEx => permissions.yml

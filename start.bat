@@ -1,0 +1,1 @@
+java -Xmx500M -Dfile.encoding=UTF-8 -jar Spigot.jar
